@@ -2,7 +2,7 @@
 # 👋 Hey there, I’m Naveen Kumar Manokaran  
 
 💻 **Data Engineer | AWS | Apache Spark | Airflow | Snowflake | Python**  
-📍 Tempe, AZ | 📧 [nmanokar@asu.edu](mailto:naveenmano220896@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/naveen-kumar-manokaran) | 💻 [GitHub](https://github.com/Nawin220896)
+📍 Tempe, AZ | 📧 [naveenmano220896@gmail.com](mailto:naveenmano220896@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/naveen-kumar-manokaran) | 💻 [GitHub](https://github.com/Nawin220896)
 
 ---
 
